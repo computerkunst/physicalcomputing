@@ -1,1 +1,3 @@
-# physicalcomputing
+# HAWK physicalcomputing
+
+Herzlich Willkommen. Viel Spaß!
