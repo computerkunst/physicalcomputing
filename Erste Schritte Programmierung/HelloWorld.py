@@ -3,7 +3,7 @@ import machine
 import utime
 
 #Welche Geräte (Sensoren, Aktoren) sind wo angeschlossen
-led_onboard = machine.Pin(2, machine.Pin.OUT)
+led_onboard = machine.Pin(25, machine.Pin.OUT)
 
 #Loop = Hauptprogramm immer und immer wieder
 while True:
