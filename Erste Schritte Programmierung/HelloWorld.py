@@ -1,4 +1,4 @@
-#Was braucht der Code? Librarys
+#Was braucht der Code? Bibliotheken
 import machine
 import utime
 
